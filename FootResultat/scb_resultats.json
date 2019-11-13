@@ -1,0 +1,290 @@
+{
+    "resultats": [
+        {
+            "id": "01",
+            "dom_name": "SC Bastia",
+            "dom_logo_name": "logo_bastia.png",
+            "dom_logo_url": "http://mathieu.goodbarber.com/docs/logo_bastia.png",
+            "ext_name": "Le Pontet",
+            "ext_logo_name": "logo_lepontet.png",
+            "ext_logo_url": "http://mathieu.goodbarber.com/docs/logo_lepontet.png",
+            "score": "1 - 1",
+            "date": "16 Septembre 2017"	
+        },
+        {
+            "id": "02",
+            "dom_name": "Cannet-Rocheville",
+            "dom_logo_name": "logo_cannet.png",
+            "dom_logo_url": "http://mathieu.goodbarber.com/docs/logo_cannet.png",
+            "ext_name": "SC Bastia",
+            "ext_logo_name": "logo_bastia.png",
+            "ext_logo_url": "http://mathieu.goodbarber.com/docs/logo_bastia.png",
+            "score": "1 - 1",
+            "date": "30 Septembre 2017"	
+        },
+        {
+            "id": "03",
+            "dom_name": "AC Ajaccio",
+            "dom_logo_name": "logo_ajaccio.png",
+            "dom_logo_url": "http://mathieu.goodbarber.com/docs/logo_ajaccio.png",
+            "ext_name": "SC Bastia",
+            "ext_logo_name": "logo_bastia.png",
+            "ext_logo_url": "http://mathieu.goodbarber.com/docs/logo_bastia.png",
+            "score": "1 - 1",
+            "date": "14 Octobre 2017"	
+        },
+        {
+            "id": "04",
+            "dom_name": "SC Bastia",
+            "dom_logo_name": "logo_bastia.png",
+            "dom_logo_url": "http://mathieu.goodbarber.com/docs/logo_bastia.png",
+            "ext_name": "GC Lucciana",
+            "ext_logo_name": "logo_lucciana.png",
+            "ext_logo_url": "http://mathieu.goodbarber.com/docs/logo_lucciana.png",
+            "score": "0 - 1",
+            "date": "28 Octobre 2017"	
+        },
+        {
+            "id": "05",
+            "dom_name": "Bastia-Borgo",
+            "dom_logo_name": "logo_borgo.png",
+            "dom_logo_url": "http://mathieu.goodbarber.com/docs/logo_borgo.png",
+            "ext_name": "SC Bastia",
+            "ext_logo_name": "logo_bastia.png",
+            "ext_logo_url": "http://mathieu.goodbarber.com/docs/logo_bastia.png",
+            "score": "0 - 3",
+            "date": "1 Novembre 2017"	
+        },
+        {
+            "id": "06",
+            "dom_name": "SC Bastia",
+            "dom_logo_name": "logo_bastia.png",
+            "dom_logo_url": "http://mathieu.goodbarber.com/docs/logo_bastia.png",
+            "ext_name": "Gemenos",
+            "ext_logo_name": "logo_gemenos.png",
+            "ext_logo_url": "http://mathieu.goodbarber.com/docs/logo_gemenos.png",
+            "score": "1 - 0",
+            "date": "4 Novembre 2017"	
+        },
+        {
+            "id": "07",
+            "dom_name": "Aubagne",
+            "dom_logo_name": "logo_aubagne.png",
+            "dom_logo_url": "http://mathieu.goodbarber.com/docs/logo_aubagne.png",
+            "ext_name": "SC Bastia",
+            "ext_logo_name": "logo_bastia.png",
+            "ext_logo_url": "http://mathieu.goodbarber.com/docs/logo_bastia.png",
+            "score": "0 - 0",
+            "date": "11 Novembre 2017"	
+        },
+        {
+            "id": "08",
+            "dom_name": "Villefranche",
+            "dom_logo_name": "logo_villefranche.png",
+            "dom_logo_url": "http://mathieu.goodbarber.com/docs/logo_villefranche.png",
+            "ext_name": "SC Bastia",
+            "ext_logo_name": "logo_bastia.png",
+            "ext_logo_url": "http://mathieu.goodbarber.com/docs/logo_bastia.png",
+            "score": "0 - 1",
+            "date": "18 Novembre 2017"	
+        },
+        {
+            "id": "09",
+            "dom_name": "Cannes",
+            "dom_logo_name": "logo_cannes.png",
+            "dom_logo_url": "http://mathieu.goodbarber.com/docs/logo_cannes.png",
+            "ext_name": "SC Bastia",
+            "ext_logo_name": "logo_bastia.png",
+            "ext_logo_url": "http://mathieu.goodbarber.com/docs/logo_bastia.png",
+            "score": "3 - 2",
+            "date": "25 Novembre 2017"	
+        },
+        {
+            "id": "10",
+            "dom_name": "SC Bastia",
+            "dom_logo_name": "logo_bastia.png",
+            "dom_logo_url": "http://mathieu.goodbarber.com/docs/logo_bastia.png",
+            "ext_name": "Endoume",
+            "ext_logo_name": "logo_endoume.png",
+            "ext_logo_url": "http://mathieu.goodbarber.com/docs/logo_endoume.png",
+            "score": "",
+            "date": "2 Décembre 2017"	
+        },
+        {
+            "id": "11",
+            "dom_name": "SC Bastia",
+            "dom_logo_name": "logo_bastia.png",
+            "dom_logo_url": "http://mathieu.goodbarber.com/docs/logo_bastia.png",
+            "ext_name": "St Remoise",
+            "ext_logo_name": "",
+            "ext_logo_url": "",
+            "score": "6 - 0",
+            "date": "9 Décembre 2017"	
+        },
+        {
+            "id": "12",
+            "dom_name": "Balagne Ile Rousse",
+            "dom_logo_name": "logo_ilerousse.png",
+            "dom_logo_url": "http://mathieu.goodbarber.com/docs/logo_ilerousse.png",
+            "ext_name": "SC Bastia",
+            "ext_logo_name": "logo_bastia.png",
+            "ext_logo_url": "http://mathieu.goodbarber.com/docs/logo_bastia.png",
+            "score": "",
+            "date": "16 Décembre 2017"	
+        },
+        {
+            "id": "12",
+            "dom_name": "SC Bastia",
+            "dom_logo_name": "logo_bastia.png",
+            "dom_logo_url": "http://mathieu.goodbarber.com/docs/logo_bastia.png",
+            "ext_name": "Bastia EF",
+            "ext_logo_name": "logo_bastiaef.png",
+            "ext_logo_url": "http://mathieu.goodbarber.com/docs/logo_bastiaef.png",
+            "score": "",
+            "date": "13 Janvier 2018"	
+        },
+        {
+            "id": "13",
+            "dom_name": "Endoume",
+            "dom_logo_name": "logo_endoume.png",
+            "dom_logo_url": "http://mathieu.goodbarber.com/docs/logo_endoume.png",
+            "ext_name": "SC Bastia",
+            "ext_logo_name": "logo_bastia.png",
+            "ext_logo_url": "http://mathieu.goodbarber.com/docs/logo_bastia.png",
+            "score": "",
+            "date": "20 Janvier 2018"	
+        },
+        {
+            "id": "14",
+            "dom_name": "SC Bastia",
+            "dom_logo_name": "logo_bastia.png",
+            "dom_logo_url": "http://mathieu.goodbarber.com/docs/logo_bastia.png",
+            "ext_name": "Bastia Borgo",
+            "ext_logo_name": "logo_borgo.png",
+            "ext_logo_url": "http://mathieu.goodbarber.com/docs/logo_borgo.png",
+            "score": "",
+            "date": "3 Février 2018"	
+        },
+        {
+            "id": "15",
+            "dom_name": "Le Pontet",
+            "dom_logo_name": "logo_lepontet.png",
+            "dom_logo_url": "http://mathieu.goodbarber.com/docs/logo_lepontet.png",
+            "ext_name": "SC Bastia",
+            "ext_logo_name": "logo_bastia.png",
+            "ext_logo_url": "http://mathieu.goodbarber.com/docs/logo_bastia.png",
+            "score": "",
+            "date": "17 Février 2018"	
+        },
+        {
+            "id": "16",
+            "dom_name": "SC Bastia",
+            "dom_logo_name": "logo_bastia.png",
+            "dom_logo_url": "http://mathieu.goodbarber.com/docs/logo_bastia.png",
+            "ext_name": "Cannet-Rocheville",
+            "ext_logo_name": "logo_cannet.png",
+            "ext_logo_url": "http://mathieu.goodbarber.com/docs/logo_cannet.png",
+            "score": "",
+            "date": "24 Février 2018"	
+        },
+        {
+            "id": "17",
+            "dom_name": "AC Ajaccio",
+            "dom_logo_name": "logo_ajaccio.png",
+            "dom_logo_url": "http://mathieu.goodbarber.com/docs/logo_ajaccio.png",
+            "ext_name": "SC Bastia",
+            "ext_logo_name": "logo_bastia.png",
+            "ext_logo_url": "http://mathieu.goodbarber.com/docs/logo_bastia.png",
+            "score": "",
+            "date": "10 Mars 2018"	
+        },
+        {
+            "id": "18",
+            "dom_name": "SC Bastia",
+            "dom_logo_name": "logo_bastia.png",
+            "dom_logo_url": "http://mathieu.goodbarber.com/docs/logo_bastia.png",
+            "ext_name": "GC Lucciana",
+            "ext_logo_name": "logo_lucciana.png",
+            "ext_logo_url": "http://mathieu.goodbarber.com/docs/logo_lucciana.png",
+            "score": "",
+            "date": "17 Mars 2018"	
+        },
+        {
+            "id": "19",
+            "dom_name": "Gemenos",
+            "dom_logo_name": "logo_gemenos.png",
+            "dom_logo_url": "http://mathieu.goodbarber.com/docs/logo_gemenos.png",
+            "ext_name": "SC Bastia",
+            "ext_logo_name": "logo_bastia.png",
+            "ext_logo_url": "http://mathieu.goodbarber.com/docs/logo_bastia.png",
+            "score": "",
+            "date": "24 Mars 2018"	
+        },
+        {
+            "id": "20",
+            "dom_name": "SC Bastia",
+            "dom_logo_name": "logo_bastia.png",
+            "dom_logo_url": "http://mathieu.goodbarber.com/docs/logo_bastia.png",
+            "ext_name": "Villefranche",
+            "ext_logo_name": "logo_villefranche.png",
+            "ext_logo_url": "http://mathieu.goodbarber.com/docs/logo_villefranche.png",
+            "score": "",
+            "date": "7 Avril 2018"	
+        },
+        {
+            "id": "21",
+            "dom_name": "SC Bastia",
+            "dom_logo_name": "logo_bastia.png",
+            "dom_logo_url": "http://mathieu.goodbarber.com/docs/logo_bastia.png",
+            "ext_name": "Cannes",
+            "ext_logo_name": "logo_cannes.png",
+            "ext_logo_url": "http://mathieu.goodbarber.com/docs/logo_cannes.png",
+            "score": "",
+            "date": "14 Avril 2018"	
+        },
+        {
+            "id": "22",
+            "dom_name": "St Remoise",
+            "dom_logo_name": "",
+            "dom_logo_url": "",
+            "ext_name": "SC Bastia",
+            "ext_logo_name": "logo_bastia.png",
+            "ext_logo_url": "http://mathieu.goodbarber.com/docs/logo_bastia.png",
+            "score": "",
+            "date": "21 Avril 2018"	
+        },
+        {
+            "id": "23",
+            "dom_name": "SC Bastia",
+            "dom_logo_name": "logo_bastia.png",
+            "dom_logo_url": "http://mathieu.goodbarber.com/docs/logo_bastia.png",
+            "ext_name": "Balagne Ile Rousse",
+            "ext_logo_name": "logo_ilerousse.png",
+            "ext_logo_url": "http://mathieu.goodbarber.com/docs/logo_ilerousse.png",
+            "score": "",
+            "date": "28 Avril 2018"	
+        },
+        {
+            "id": "24",
+            "dom_name": "Bastia EF",
+            "dom_logo_name": "logo_bastiaef.png",
+            "dom_logo_url": "http://mathieu.goodbarber.com/docs/logo_bastiaef.png",
+            "ext_name": "SC Bastia",
+            "ext_logo_name": "logo_bastia.png",
+            "ext_logo_url": "http://mathieu.goodbarber.com/docs/logo_bastia.png",
+            "score": "",
+            "date": "12 Mai 2018"	
+        },
+        {
+            "id": "25",
+            "dom_name": "SC Bastia",
+            "dom_logo_name": "logo_bastia.png",
+            "dom_logo_url": "http://mathieu.goodbarber.com/docs/logo_bastia.png",
+            "ext_name": "Aubagne",
+            "ext_logo_name": "logo_aubagne.png",
+            "ext_logo_url": "http://mathieu.goodbarber.com/docs/logo_aubagne.png",
+            "score": "",
+            "date": "18 Mai 2018"	
+        }
+    ]
+}
